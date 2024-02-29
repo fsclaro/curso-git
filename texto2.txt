@@ -1,4 +1,3 @@
 Esta é a primeira linha do arquivo
 
-Esta é a segunda linha do arquivo texto2.txt esta é uma alteração no repo remoto
-
+Esta é a segunda linha do arquivo texto2.txt esta é uma alteração no repo local
